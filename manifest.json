@@ -1,1 +1,1 @@
-{"name":"Link Blocker","description":"Replaces blocked links with [Blocked: domain]","authors":[{"name":"MoistMozzarella"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"7e8922ea1de14acd4ec4dfbfdc901884dbc58a253aae8b9f6414530b2512a39a"}
+{"name":"Link Blocker","description":"Replaces blocked links with [Blocked: domain]","authors":[{"name":"MoistMozzarella"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"de471f41c3c07345f27e3a98c44ec3d7f4e3f146491b877ccd8430c27bc3e62f"}
