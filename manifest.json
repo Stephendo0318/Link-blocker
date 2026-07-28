@@ -1,14 +1,1 @@
-{
-	"name": "Clean URLs",
-	"description": "Removes tracking garbage from links sent and received",
-	"authors": [
-		{
-			"name": "nexpid",
-			"id": "853550207039832084"
-		}
-	],
-	"main": "src/index.ts",
-	"vendetta": {
-		"icon": "LinkIcon"
-	}
-}
+{"name":"Clean URLs","description":"Removes tracking garbage from links sent and received","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"6c4f37aa256a6b349153c977ab939a2365db04afd0cca23cf0660e7ed51a6a5a"}
