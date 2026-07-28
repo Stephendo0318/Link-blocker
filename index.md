@@ -1,6 +1,6 @@
 ---
-title: Clean URLs (by nexpid)
-description: Removes tracking garbage from links sent and received
+title: Link Blocker (by MoistMozzarella)
+description: Replaces blocked links with [Blocked: domain]
 ---
 
 <!--
@@ -9,9 +9,9 @@ description: Removes tracking garbage from links sent and received
 -->
 
 <div align="center">
-<h1>Clean URLs (by nexpid)</h1>
-<h3>Removes tracking garbage from links sent and received</h3>
+<h1>Link Blocker (by MoistMozzarella)</h1>
+<h3>Replaces blocked links with [Blocked: domain]</h3>
 </div>
 
 > **Note**
-> This is a landing page for the plugin **Clean URLs**. The proper way to install this plugin is going to Revenge's Plugins page and adding it there.
+> This is a landing page for the plugin **Link Blocker**. The proper way to install this plugin is going to Revenge's Plugins page and adding it there.
