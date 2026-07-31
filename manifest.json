@@ -1,1 +1,1 @@
-{"name":"Link Shield","description":"Hides messages containing blacklisted links locally with tap-to-reveal.","authors":[{"name":"MoistMozzarella","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_shield"},"hash":"9a2ad7b0e2195aa305812f7b3157b2cfe15a3b5ff816ea5d44da4e7e8933a5e0"}
+{"name":"Link Shield","description":"Hides messages containing blacklisted links locally with tap-to-reveal.","authors":[{"name":"MoistMozzarella","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_shield"},"hash":"c0515b58ec081a24eef2782bfb4e7c01da0beb1d696c773ba0bf5aecfe3e3088"}
