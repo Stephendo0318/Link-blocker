@@ -1,6 +1,6 @@
 ---
-title: Link Blocker (by MoistMozzarella)
-description: Replaces blocked links with [Blocked: domain]
+title: Link Shield (by MoistMozzarella)
+description: Hides messages containing blacklisted links locally with tap-to-reveal.
 ---
 
 <!--
@@ -9,9 +9,9 @@ description: Replaces blocked links with [Blocked: domain]
 -->
 
 <div align="center">
-<h1>Link Blocker (by MoistMozzarella)</h1>
-<h3>Replaces blocked links with [Blocked: domain]</h3>
+<h1>Link Shield (by MoistMozzarella)</h1>
+<h3>Hides messages containing blacklisted links locally with tap-to-reveal.</h3>
 </div>
 
 > **Note**
-> This is a landing page for the plugin **Link Blocker**. The proper way to install this plugin is going to Revenge's Plugins page and adding it there.
+> This is a landing page for the plugin **Link Shield**. The proper way to install this plugin is going to Revenge's Plugins page and adding it there.

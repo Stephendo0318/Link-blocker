@@ -1,1 +1,1 @@
-{"name":"Link Blocker","description":"Replaces blocked links with [Blocked: domain]","authors":[{"name":"MoistMozzarella"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"85d4a2bdbb4c73b0741d47042c9f540b0765a3c8ef06ffc100039a2065f6f0e3"}
+{"name":"Link Shield","description":"Hides messages containing blacklisted links locally with tap-to-reveal.","authors":[{"name":"MoistMozzarella","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_shield"},"hash":"adbc86bbaa8e287bd8e3de905a773785a9d0e12d309724cf775584937c37f807"}
